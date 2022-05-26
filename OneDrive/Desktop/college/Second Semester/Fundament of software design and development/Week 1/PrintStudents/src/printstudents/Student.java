@@ -14,7 +14,7 @@ public class Student {
      * @param age the age to set
      */
     public void setAge(int age) {
-        this.age = age; //fuck
+        this.age = age;
     } 
     public String getName() {
         return name;
