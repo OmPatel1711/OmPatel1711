@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding Enthusiast" width="400" src="https://github.com/user-attachments/assets/9f9ddb59-2592-4caa-9ef1-116d15be155e" />
+<img align="right" alt="Coding Enthusiast" width="400" src="CodingGig" />
 
 
 
